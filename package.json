@@ -2,5 +2,7 @@
   "name": "be-the-hero",
   "version": "1.0.0",
   "license": "MIT",
-  "dependencies": {}
+  "scripts": {
+    "build:frontend": "cd packages/frontend && yarn build"
+  }
 }
