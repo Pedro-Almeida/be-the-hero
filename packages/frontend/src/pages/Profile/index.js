@@ -45,7 +45,7 @@ export default function Profile() {
           <strong>DESCRIÇÃO</strong>
           <p>Descrição tente</p>
 
-          <strong>Valor:</strong>
+          <strong>VALOR:</strong>
           <p>R$ 120,00</p>
 
           <button type="button">
